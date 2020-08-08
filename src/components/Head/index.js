@@ -31,8 +31,7 @@ function Head() {
         <Header>
           <MenuMobile>
             <div id="myNav" class="overlay">
-              {/*  href="javascript:void(0)"  */}
-              <a href="/" class="closebtn" onClick={closeNav}>
+              <a href="javascript:void(0)" class="closebtn" onClick={closeNav}>
                 &times;
               </a>
 
