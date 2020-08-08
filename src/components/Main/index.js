@@ -42,7 +42,7 @@ function Main() {
         <p>Potions</p>
         <Vitrine>
           <div>
-            <a onClick={() => setIsOpen(true)}>
+            <a href="/" onClick={() => setIsOpen(true)}>
               <img src={imgProduto} alt="Produto" />
             </a>
             <span>

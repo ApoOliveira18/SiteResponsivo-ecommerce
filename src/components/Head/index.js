@@ -31,7 +31,8 @@ function Head() {
         <Header>
           <MenuMobile>
             <div id="myNav" class="overlay">
-              <a href="javascript:void(0)" class="closebtn" onClick={closeNav}>
+              {/*  href="javascript:void(0)"  */}
+              <a href="/" class="closebtn" onClick={closeNav}>
                 &times;
               </a>
 
@@ -45,11 +46,11 @@ function Head() {
                   ></input>
                 </form>
                 <span className="SignIn">
-                  <a href="#">Potions</a>
-                  <a href="#">Ingredients</a>
-                  <a href="#">Books</a>
-                  <a href="#">Suplies</a>
-                  <a href="#">Charms</a>
+                  <a href="http://appsistems.com.br">Potions</a>
+                  <a href="http://appsistems.com.br">Ingredients</a>
+                  <a href="http://appsistems.com.br">Books</a>
+                  <a href="http://appsistems.com.br">Suplies</a>
+                  <a href="http://appsistems.com.br">Charms</a>
                 </span>
                 <div className="topnav">
                   <span>
