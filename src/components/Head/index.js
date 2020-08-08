@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 import {
   Container,
@@ -31,10 +32,10 @@ function Head() {
         <Header>
           <MenuMobile>
             <div id="myNav" class="overlay">
-              <a href="javascript:void(0)" class="closebtn" onClick={closeNav}>
+              {/* href="javascript:void(0)"*/}
+              <button class="closebtn" onClick={closeNav}>
                 &times;
-              </a>
-
+              </button>
               <div class="overlay-content">
                 <form>
                   <MagnifyingGlassIconOverlay className="example" />
@@ -45,7 +46,7 @@ function Head() {
                   ></input>
                 </form>
                 <span className="SignIn">
-                  <a href="http://appsistems.com.br">Potions</a>
+                  <Link to="http://appsistems.com.br">Potions</Link>
                   <a href="http://appsistems.com.br">Ingredients</a>
                   <a href="http://appsistems.com.br">Books</a>
                   <a href="http://appsistems.com.br">Suplies</a>

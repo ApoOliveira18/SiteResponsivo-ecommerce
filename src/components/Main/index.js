@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { Container, Vitrine, Modal, OverlayModal } from './styles';
+import { Link } from 'react-router-dom';
 import imgProduto from '../../assets/aging-potion-wm.png';
 import imgProduto2 from '../../assets/bulgeye-potion-wm.png';
 import imgProduto3 from '../../assets/dragon-tonic-wm.png';
@@ -42,9 +43,11 @@ function Main() {
         <p>Potions</p>
         <Vitrine>
           <div>
-            <a onClick={() => setIsOpen(true)}>
-              <img src={imgProduto} alt="Produto" />
-            </a>
+            <button onClick={() => setIsOpen(true)}>
+              <Link to="#">
+                <img src={imgProduto} alt="Produto" />
+              </Link>
+            </button>
             <span>
               Aging potion<strong>$29.99</strong>
             </span>

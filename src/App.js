@@ -1,10 +1,10 @@
 import React from 'react';
 import GlobalStyles from './styles/GlobalStyle';
-import Layout from './components/Layout';
+import Routes from '../src/routes';
 
 const App = () => (
   <div className="App">
-    <Layout />
+    <Routes />
     <GlobalStyles />
   </div>
 );
