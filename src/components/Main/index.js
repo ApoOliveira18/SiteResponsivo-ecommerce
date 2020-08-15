@@ -19,7 +19,7 @@ function Main() {
       <Container>
         <JwModal id="jw-modal-1">
           <button onClick={JwModal.close('jw-modal-1')}>
-            <strong>FECHAR</strong>
+            <strong>X</strong>
           </button>
           <ModalContainer>
             <div className="Modal">
@@ -46,6 +46,9 @@ function Main() {
         </JwModal>
 
         <JwModal id="jw-modal-2" className="jw-modal-body">
+          <button onClick={JwModal.close('jw-modal-2')}>
+            <strong>X</strong>
+          </button>
           <ModalContainer>
             <div className="Modal">
               <div>
@@ -68,11 +71,12 @@ function Main() {
               </div>
             </div>
           </ModalContainer>
-
-          <button onClick={JwModal.close('jw-modal-2')}>Close</button>
         </JwModal>
 
         <JwModal id="jw-modal-3" className="jw-modal-body">
+          <button onClick={JwModal.close('jw-modal-3')}>
+            <strong>X</strong>
+          </button>
           <ModalContainer>
             <div className="Modal">
               <div>
@@ -95,11 +99,12 @@ function Main() {
               </div>
             </div>
           </ModalContainer>
-
-          <button onClick={JwModal.close('jw-modal-3')}>Close</button>
         </JwModal>
 
         <JwModal id="jw-modal-4" className="jw-modal-body">
+          <button onClick={JwModal.close('jw-modal-4')}>
+            <strong>X</strong>
+          </button>
           <ModalContainer>
             <div className="Modal">
               <div>
@@ -122,11 +127,12 @@ function Main() {
               </div>
             </div>
           </ModalContainer>
-
-          <button onClick={JwModal.close('jw-modal-4')}>Close</button>
         </JwModal>
 
         <JwModal id="jw-modal-5" className="jw-modal-body">
+          <button onClick={JwModal.close('jw-modal-5')}>
+            <strong>X</strong>
+          </button>
           <ModalContainer>
             <div className="Modal">
               <div>
@@ -149,11 +155,12 @@ function Main() {
               </div>
             </div>
           </ModalContainer>
-
-          <button onClick={JwModal.close('jw-modal-5')}>Close</button>
         </JwModal>
 
         <JwModal id="jw-modal-6" className="jw-modal-body">
+          <button onClick={JwModal.close('jw-modal-6')}>
+            <strong>X</strong>
+          </button>
           <ModalContainer>
             <div className="Modal">
               <div>
@@ -176,8 +183,6 @@ function Main() {
               </div>
             </div>
           </ModalContainer>
-
-          <button onClick={JwModal.close('jw-modal-6')}>Close</button>
         </JwModal>
 
         <p>Potions</p>
