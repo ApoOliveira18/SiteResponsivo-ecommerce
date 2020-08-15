@@ -17,7 +17,7 @@
 
 ## 💻 Projeto
 
-<p>A interface responsiva foi desenvolvida utilizando a lib ReactJS, Javascript e bibliotecas para estilização. Mostrou-se bem responsiva para os seguintes dispositivos: IPhone 6/7/8Plus, iPhone6/7/8, iPhoneX, iPad, iPadPro, Pixel2, Pixel2XL, GalaxyS5 e outros Samsungs, Nokia Lumia 520, Moto G4, LapTop 1024, LapTop 1440px, 4K 2560px, e telefones celulares pequenos.</p>
+<p>A interface responsiva foi desenvolvida utilizando a lib ReactJS, Javascript e bibliotecas para estilização. Mostrou-se responsivar de forma correta para os seguintes dispositivos: IPhone 6/7/8Plus, iPhone6/7/8, iPhoneX, iPad, iPadPro, Pixel2, Pixel2XL, GalaxyS5 e outros Samsungs, Nokia Lumia 520, Moto G4, LapTop 1024, LapTop 1440px, 4K 2560px, e telefones celulares pequenos.</p>
 
 <h3>Laytout Responsivo no Iphone 6/7/8/Plus</h3>
 <p align="center">    
