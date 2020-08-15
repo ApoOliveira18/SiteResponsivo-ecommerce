@@ -45,17 +45,17 @@ function Head() {
                   ></input>
                 </form>
                 <span className="SignIn">
-                  <Link to="#">Potions</Link>
-                  <a href="#">Ingredients</a>
-                  <a href="#">Books</a>
-                  <a href="#">Suplies</a>
-                  <a href="#">Charms</a>
+                  <Link to="/">Potions</Link>
+                  <a href="/">Ingredients</a>
+                  <a href="/">Books</a>
+                  <a href="/">Suplies</a>
+                  <a href="/">Charms</a>
                 </span>
                 <div className="topnav">
                   <span>
-                    <a href="#">Sing In</a>
+                    <a href="/">Sing In</a>
                     <strong className="styleOr">or</strong>
-                    <a href="#">Sign Up</a>
+                    <a href="/">Sign Up</a>
                   </span>
                 </div>
               </div>
@@ -84,15 +84,15 @@ function Head() {
 
         <MenuNav>
           <div className="topnav" id="myTopnav">
-            <a href="#">
+            <a href="/">
               Potions
               <DownArrowIcon />
             </a>
-            <a href="#">
+            <a href="/">
               Ingredients
               <DownArrowIcon />
             </a>
-            <a href="#">
+            <a href="/">
               Books
               <DownArrowIcon />
             </a>
@@ -102,25 +102,25 @@ function Head() {
                 <DownArrowIcon />
               </button>
               <div className="dropdown-content">
-                <a href="#">Snacks</a>
-                <a href="#">Frogs</a>
-                <a href="#">Tarantulas</a>
+                <a href="/">Snacks</a>
+                <a href="/">Frogs</a>
+                <a href="/">Tarantulas</a>
               </div>
             </div>
-            <a href="#">
+            <a href="/">
               Charms
               <DownArrowIcon />
             </a>
-            <a href="#" className="active">
+            <a href="/" className="active">
               Clearence
               <DownArrowIcon />
             </a>
           </div>
           <div className="topnav">
             <span>
-              <a href="#">Sing In</a>
+              <a href="/">Sing In</a>
               <strong>or</strong>
-              <a href="#">Sign Up</a>
+              <a href="/">Sign Up</a>
             </span>
           </div>
         </MenuNav>
