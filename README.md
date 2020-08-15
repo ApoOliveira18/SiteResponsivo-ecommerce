@@ -19,14 +19,21 @@
 
 <p>In this challenge, he will develop a new application, GoMarketplace. This time it's time for you to practice what you've learned so far in React Native, along with TypeScript, using routes, Async Storage and the Context API.</p>
 
+<h2>Lautout Responsivo no Ipad</h2>
 <p align="center">    
-  <img alt="Homepage" title="Homepage" src="src/assets/int1.png" width="600px" />
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_1.png" width="600px" />
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_2.png" width="600px" />
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_3.png" width="600px" />
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_4.png" width="600px" />
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_5.png" width="600px" />
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_6.png" width="600px" />  
+  <img alt="Homepage" title="Homepage" src="src/assets/int1.png" width="400px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_1.png" width="400px" />
+</p>
+<p align="center">  
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_2.png" width="400px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_3.png" width="400px" />
+</p>
+<p align="center">  
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_4.png" width="400px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_5.png" width="40px" />
+</p>
+<p align="center"> 
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_6.png" width="400px" />  
  </p>
 
 
