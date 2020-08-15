@@ -7,17 +7,17 @@
 </h4>
 
 <p align="center">
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">Licença</a>
 </p>
 
-## 💻 Project
+## 💻 Projeto
 
-<p>In this challenge, he will develop a new application, GoMarketplace. This time it's time for you to practice what you've learned so far in React Native, along with TypeScript, using routes, Async Storage and the Context API.</p>
+<p>A interface responsiva foi desenvolvida utilizando a lib ReactJS, Javascript e bibliotecas para estilização. Mostrou-se bem responsiva para os seguintes dispositivos: IPhone 6/7/8Plus, iPhone6/7/8, iPhoneX, iPad, iPadPro, Pixel2, Pixel2XL, GalaxyS5 e outros Samsungs, Nokia Lumia 520, Moto G4, LapTop 1024, LapTop 1440px, 4K 2560px, e telefones celulares pequenos.</p>
 
 <h3>Laytout Responsivo no Iphone 6/7/8/Plus</h3>
 <p align="center">    
@@ -57,35 +57,31 @@
   <img alt="Homepage" title="Homepage" src="src/assets/int4.png" width="600px" />
 </p>
 
-## :rocket: Technologies
+## :rocket: Tecnologias
 
-This project was developed with the following technologies:
+Essa homepage foi desenvolvida usando as seguintes tecnologias:
 
 - [ReactJS](https://pt-br.reactjs.org/) 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## :information_source: How To Use
+## :information_source: Como Usar
 
-To clone and run this application, you'll need [Git](https://git-scm.com),  [ReactJS][react] , [Yarn][yarn] + [Npm][npm] installed on your computer.
+Para executar essa aplicação você precisará ter [Git](https://git-scm.com),  [ReactJS][react] , [Yarn][yarn] + [Npm][npm] instalados em seu computador.
 
-From your command line:
+Da sua linha de comando:
 
 ### Install API
 ```bash
 # Clone this repository
-$ git clone https://github.com/ApoOliveira18/desafio-fundamentos-react-native.git
+$ git clone https://github.com/ApoOliveira18/SiteResponsivo-ecommerce.git
 # Go into the repository
-$ cd desafio-fundamentos-react-native/
+$ cd SiteResponsivo-ecommerce/
 
 # Install dependencies for directories
 $yarn
-
-# Run tests
-$ yarn test
+$Npm
 ```
-
-## 🤔 How to contribute
-
+## 🤔 Como contribuir
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
 - Commit changes: `git commit -m 'feat: My new feature'`;
@@ -93,9 +89,8 @@ $ yarn test
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
-
-This project is under the MIT license. See the [LICENSE](LICENSE.md) for details.
+## :memo: Licença
+Este projeto está sob a licença do MIT. Consulte a [LICENSE](LICENSE.md) para obter detalhes.
 
 ---
 
