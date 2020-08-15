@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Merlins Potions" title="#Logo" src="src/assets/lg.png" width="200px" />
+    <img alt="Merlins Potions" title="#Logo" src="src/assets/lg.png" width="170px" />
 </h1>
 
 <h4 align="center"> 
@@ -9,16 +9,17 @@
 <p align="center">
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
+  <a href="#rocket-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket--how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-memo-license">Licença</a>
 </p>
 
 ## 💻 Projeto
 
 <p>A interface responsiva foi desenvolvida utilizando a lib ReactJS, Javascript e bibliotecas para estilização. Mostrou-se responsivar de forma correta para os seguintes dispositivos: IPhone 6/7/8Plus, iPhone6/7/8, iPhoneX, iPad, iPadPro, Pixel2, Pixel2XL, GalaxyS5 e outros Samsungs, Nokia Lumia 520, Moto G4, LapTop 1024, LapTop 1440px, 4K 2560px, e telefones celulares pequenos.</p>
 
+## :rocket: Layout
 <h3>Laytout Responsivo no Iphone 6/7/8/Plus</h3>
 <p align="center">    
   <img alt="Homepage" title="Homepage" src="src/assets/int1.png" width="400px" />
@@ -64,7 +65,7 @@ Essa homepage foi desenvolvida usando as seguintes tecnologias:
 - [ReactJS](https://pt-br.reactjs.org/) 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## :how-to-use: Como Usar
+## :rocket: how-to-use: Como Usar
 
 Para executar essa aplicação você precisará ter [Git](https://git-scm.com),  [ReactJS][react] , [Yarn][yarn] + [Npm][npm] instalados em seu computador.
 
