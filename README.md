@@ -46,6 +46,16 @@
   <img alt="Homepage" title="Homepage" src="src/assets/int2_4.png" width="400px" />  
 </p>
 
+ <h3>Lautout Responsivo no Moto</h3>
+<p align="center">      
+  <img alt="Homepage" title="Homepage" src="src/assets/int3.png" width="400px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int3_1.png" width="400px" />
+</p>
+<p align="center">  
+  <img alt="Homepage" title="Homepage" src="src/assets/int3_2.png" width="400px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int3_3.png" width="400px" />  
+</p>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
