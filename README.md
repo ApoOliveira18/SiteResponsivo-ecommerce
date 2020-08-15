@@ -52,6 +52,11 @@
   <img alt="Homepage" title="Homepage" src="src/assets/int3_6.png" width="400px" />  
 </p>
 
+ <h3>Lautout Responsivo Notebook</h3>
+<p align="center">      
+  <img alt="Homepage" title="Homepage" src="src/assets/int4.png" width="600px" />
+</p>
+
 ## :rocket: Technologies
 
 This project was developed with the following technologies:
