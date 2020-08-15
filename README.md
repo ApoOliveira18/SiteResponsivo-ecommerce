@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Merlins Potions" title="#Logo" src="src/assets/lg.png" width="250px" />
+    <img alt="Merlins Potions" title="#Logo" src="src/assets/lg.png" width="200px" />
 </h1>
 
 <h4 align="center"> 
@@ -21,7 +21,12 @@
 
 <p align="center">    
   <img alt="Homepage" title="Homepage" src="src/assets/int1.png" width="600px" />
-  
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_1.png" width="600px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_2.png" width="600px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_3.png" width="600px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_4.png" width="600px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_5.png" width="600px" />
+  <img alt="Homepage" title="Homepage" src="src/assets/int1_6.png" width="600px" />  
  </p>
 
 
