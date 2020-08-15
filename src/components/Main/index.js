@@ -18,6 +18,9 @@ function Main() {
     <>
       <Container>
         <JwModal id="jw-modal-1">
+          <button onClick={JwModal.close('jw-modal-1')}>
+            <strong>FECHAR</strong>
+          </button>
           <ModalContainer>
             <div className="Modal">
               <div>
@@ -40,8 +43,6 @@ function Main() {
               </div>
             </div>
           </ModalContainer>
-
-          <button onClick={JwModal.close('jw-modal-1')}>Close</button>
         </JwModal>
 
         <JwModal id="jw-modal-2" className="jw-modal-body">
