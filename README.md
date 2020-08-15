@@ -28,14 +28,10 @@
   <img alt="Homepage" title="Homepage" src="src/assets/int1_2.png" width="400px" />
   <img alt="Homepage" title="Homepage" src="src/assets/int1_3.png" width="400px" />
 </p>
-<p align="center">  
-  <img alt="Homepage" title="Homepage" src="src/assets/int1_4.png" width="400px" />
+<p align="center">   
   <img alt="Homepage" title="Homepage" src="src/assets/int1_5.png" width="400px" />
-</p>
-<p align="center"> 
   <img alt="Homepage" title="Homepage" src="src/assets/int1_6.png" width="400px" />  
- </p>
- 
+</p> 
  <h3>Lautout Responsivo no Ipad</h3>
 <p align="center">      
   <img alt="Homepage" title="Homepage" src="src/assets/int2_1.png" width="400px" />
