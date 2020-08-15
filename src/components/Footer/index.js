@@ -25,10 +25,10 @@ const Footer = () => (
     <SocialMedia>
       <Company className="company">
         <div className="comp">
-          COMPANY<span>RETURNS</span>
+          COMPANY<span className="colorText">RETURNS</span>
         </div>
         <div className="cont">
-          CONTACT US <span>CARRERS</span>
+          CONTACT US <span className="colorText">CARRERS</span>
         </div>
         <div className="ship">SHIPPING</div>
       </Company>

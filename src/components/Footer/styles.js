@@ -176,6 +176,10 @@ export const Company = styled.div`
       align-items: center;
       margin-right: 5px;
     }
+
+    span.colorText {
+      color: var(--texto-destaques) !important;
+    }
   }
 
   @media (min-width: 426px) {

@@ -31,12 +31,12 @@ function Head() {
       <Container>
         <Header>
           <MenuMobile>
-            <div id="myNav" class="overlay">
+            <div id="myNav" className="overlay">
               {/* href="javascript:void(0)"*/}
-              <button class="closebtn" onClick={closeNav}>
+              <button className="closebtn" onClick={closeNav}>
                 &times;
               </button>
-              <div class="overlay-content">
+              <div className="overlay-content">
                 <form>
                   <MagnifyingGlassIconOverlay className="example" />
                   <input

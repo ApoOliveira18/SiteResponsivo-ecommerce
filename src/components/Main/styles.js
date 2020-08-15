@@ -1,5 +1,4 @@
 import styled from 'styled-components';
-import { Overlay } from 'react-portal-overlay';
 
 export const Container = styled.div`
   display: flex;
@@ -20,6 +19,13 @@ export const Container = styled.div`
     font-size: 2rem;
     color: var(--primary);
     margin-top: 3rem;
+  }
+
+  @media (min-width: 426px) {
+    p {
+      text-align: left;
+      margin-left: 10rem;
+    }
   }
 `;
 
@@ -55,6 +61,7 @@ export const Vitrine = styled.div`
   }
 
   /* Ipads ou Superiores */
+
   @media (max-width: 76.8rem) {
     width: min(65rem, 100%);
     display: flex;
@@ -63,10 +70,11 @@ export const Vitrine = styled.div`
   }
 `;
 
-export const Modal = styled.div``;
+export const Item = styled.div``;
 
-export const OverlayModal = styled(Overlay)`
+export const ModalContainer = styled.div`
   background: rgba(0, 0, 0, 0.7);
+  background: var(--back);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -86,6 +94,10 @@ export const OverlayModal = styled(Overlay)`
       flex-direction: column;
       justify-content: space-around;
     }
+
+    @media (min-wdith: 426px) {
+      max-width: 800px;
+    }
   }
 
   div.Modal h1 {
@@ -98,7 +110,10 @@ export const OverlayModal = styled(Overlay)`
     font-size: 14px;
   }
 
-  div.Modal ul li {
+  div.Modal ul {
+    display: flex;
+    flex-direction: row;
+
     font-size: 15px;
     list-style: none;
     padding-bottom: 2px;
