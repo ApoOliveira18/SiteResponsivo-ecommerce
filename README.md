@@ -61,12 +61,12 @@
 
 This project was developed with the following technologies:
 
-- [ReacJS](https://pt-br.reactjs.org/) 
+- [ReactJS](https://pt-br.reactjs.org/) 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [ReactJS][react] + [Yarn][yarn] + [Npm].[npm] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [ReactJS][react] , [Yarn][yarn] + [Npm][npm] installed on your computer.
 
 From your command line:
 
@@ -103,6 +103,7 @@ Feito com ♥ && 🎧 && 😊 || 😥
  por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
 
 [nodejs]: https://nodejs.org/
+[ReactJs]: https://pt-br.reactjs.org/
 [yarn]: https://yarnpkg.com/
 [npm]: https://www.npmjs.com/package/documentation
 [vc]: https://code.visualstudio.com/
