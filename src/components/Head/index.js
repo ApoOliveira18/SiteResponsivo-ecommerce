@@ -15,12 +15,12 @@ import {
 import logoImg from '../../assets/lg.png';
 import bagImg from '../../assets/pote_mobile.png';
 
-/* Open Menu Mobile*/
+/* Abre Menu Mobile*/
 function openNav() {
   document.getElementById('myNav').style.height = '100%';
 }
 
-/* Close Menu Mobile*/
+/* Fecha Menu Mobile*/
 function closeNav() {
   document.getElementById('myNav').style.height = '0%';
 }

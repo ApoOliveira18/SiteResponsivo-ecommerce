@@ -107,6 +107,7 @@ export const ModalContainer = styled.div`
 
   div.Modal p {
     font-size: 14px;
+    padding-bottom: 6px;
   }
 
   div.Modal ul {
