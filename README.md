@@ -61,12 +61,12 @@
 
 This project was developed with the following technologies:
 
-- [ReactNative](https://reactnative.dev/) 
-- [Typescript](https://www.typescriptlang.org/docs/home.html)
+- [ReacJS](https://pt-br.reactjs.org/) 
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [ReactNative][reactnative] + [Yarn][yarn] installed on your computer.
+To clone and run this application, you'll need [Git](https://git-scm.com), [ReactJS][react] + [Yarn][yarn] + [Npm].[npm] installed on your computer.
 
 From your command line:
 
@@ -104,12 +104,14 @@ Feito com ♥ && 🎧 && 😊 || 😥
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
+[npm]: https://www.npmjs.com/package/documentation
 [vc]: https://code.visualstudio.com/
 [vceditconfig]: https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
 [prettier]: https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 [reactnative]: https://reactnative.dev/
 [typescript]: https://www.typescriptlang.org/docs/home.html
+[javascript]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 
 
