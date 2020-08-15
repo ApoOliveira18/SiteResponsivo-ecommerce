@@ -11,7 +11,7 @@
   <a href="#rocket-Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-how-to-use">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket--how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-how-to-contribute">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-memo-license">Licença</a>
 </p>
 
@@ -65,7 +65,7 @@ Essa homepage foi desenvolvida usando as seguintes tecnologias:
 - [ReactJS](https://pt-br.reactjs.org/) 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## :rocket: Como Usar
+## :rocket-how-to-use: Como Usar
 
 Para executar essa aplicação você precisará ter [Git](https://git-scm.com),  [ReactJS][react] , [Yarn][yarn] + [Npm][npm] instalados em seu computador.
 
@@ -82,7 +82,7 @@ $ cd SiteResponsivo-ecommerce/
 $yarn
 $Npm
 ```
-## 🤔 :rocket: Como contribuir
+## 🤔 :rocket-how-to-contribute: Como contribuir
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
 - Commit changes: `git commit -m 'feat: My new feature'`;
@@ -90,7 +90,7 @@ $Npm
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: Licença
+## :rocket:memo-license: Licença
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](LICENSE.md) para obter detalhes.
 
 ---
