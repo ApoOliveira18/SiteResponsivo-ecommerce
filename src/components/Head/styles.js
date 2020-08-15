@@ -167,7 +167,7 @@ export const MenuNav = styled.div`
     font-weight: normal;
   }
 
-  /* Add a black background color to the top navigation */
+  /* Adicione uma cor de fundo roxa à navegação superior */
   .topnav {
     display: flex;
     flex-direction: row;
@@ -178,7 +178,7 @@ export const MenuNav = styled.div`
     display: block;
   }
 
-  /* Style the links inside the navigation bar */
+  /* Estilize os links dentro da barra de navegação */
   .topnav a {
     float: left;
     display: block;
@@ -190,18 +190,18 @@ export const MenuNav = styled.div`
     font-size: 1.7rem;
   }
 
-  /* Add an active class to highlight the current page */
+  /* Adicione uma classe ativa para destacar a página atual */
   .active {
     background-color: var(--menu-active);
     color: white;
   }
 
-  /* Hide the link that should open and close the topnav on small screens */
+  /* Ocultar o link que deve abrir e fechar o topnav em telas pequenas */
   .topnav .icon {
     display: none;
   }
 
-  /* Dropdown container - needed to position the dropdown content */
+  /* Dropdown container - necessário para posicionar o conteúdo suspenso */
   .dropdown {
     float: left;
     overflow: hidden;
@@ -220,7 +220,7 @@ export const MenuNav = styled.div`
     font-style: italic;
   }
 
-  /* Style the dropdown content (hidden by default) */
+  /* Defina o estilo do dropdown button para caber dentro do topnav */
   .dropdown-content {
     display: none;
     position: absolute;
@@ -230,7 +230,7 @@ export const MenuNav = styled.div`
     z-index: 1;
   }
 
-  /* Style the links inside the dropdown */
+  /* / * Estilize os links dentro do dropdown * / */
   .dropdown-content a {
     float: none;
     color: black;
@@ -240,25 +240,25 @@ export const MenuNav = styled.div`
     text-align: left;
   }
 
-  /* Add a dark background on topnav links and the dropdown button on hover */
+  /* Adicione um fundo escuro nos links do topnav e o botão suspenso ao passar o mouse */
   .topnav a:hover,
   .dropdown:hover .dropbtn {
-    background-color: #555;
+    background-color: #6a5acd;
     color: white;
   }
 
-  /* Add a grey background to dropdown links on hover */
+  /* Adicionar um fundo cinza aos dropdowns links ao passar o mouse */
   .dropdown-content a:hover {
-    background-color: #ddd;
+    background-color: var(--menu-dropdown);
     color: black;
   }
 
-  /* Show the dropdown menu when the user moves the mouse over the dropdown button */
+  /* Mostra o dropdown quando o usuário move o mouse sobre o botão suspenso */
   .dropdown:hover .dropdown-content {
     display: block;
   }
 
-  /* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+  /* Quando a tela tiver menos de 425 pixels de largura, oculte todos os links, exceto o primeiro ("Home"). Mostrar o link que contém deve abrir e fechar o topnav (.icon) */
   @media screen and (max-width: 425px) {
     .topnav {
       display: none;
@@ -281,6 +281,13 @@ export const MenuMobile = styled.div`
     padding-top: 15px;
     font-size: 30px;
     color: var(--gray);
+    font-weight: normal;
+  }
+
+  div.topnav strong.styleOr {
+    padding-top: 15px;
+    font-size: 30px;
+    color: var(--white);
     font-weight: normal;
   }
 

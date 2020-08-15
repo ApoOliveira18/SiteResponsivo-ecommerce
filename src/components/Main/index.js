@@ -35,10 +35,8 @@ function Main() {
                 <ul>
                   <li>{json.potions[1].ingredients}</li>
                 </ul>
-
                 <h1>Price</h1>
                 <p className="Price">{json.potions[1].price}</p>
-
                 <button type="text">ADD TO CART</button>
               </div>
             </div>
@@ -54,7 +52,6 @@ function Main() {
               <div>
                 <img src={bulgeyepotion} alt="Produto" />
               </div>
-
               <div>
                 <h1>{json.potions[2].name}</h1>
                 <h1>Use/Effect:</h1>
@@ -63,10 +60,8 @@ function Main() {
                 <ul>
                   <li>{json.potions[2].ingredients}</li>
                 </ul>
-
                 <h1>Price</h1>
                 <p className="Price">{json.potions[2].price}</p>
-
                 <button type="text">ADD TO CART</button>
               </div>
             </div>
@@ -82,7 +77,6 @@ function Main() {
               <div>
                 <img src={dragontonic} alt="Produto" />
               </div>
-
               <div>
                 <h1>{json.potions[3].name}</h1>
                 <h1>Use/Effect:</h1>
@@ -91,10 +85,8 @@ function Main() {
                 <ul>
                   <li>{json.potions[3].ingredients}</li>
                 </ul>
-
                 <h1>Price</h1>
                 <p className="Price">{json.potions[3].price}</p>
-
                 <button type="text">ADD TO CART</button>
               </div>
             </div>
@@ -110,7 +102,6 @@ function Main() {
               <div>
                 <img src={lovepotion} alt="Produto" />
               </div>
-
               <div>
                 <h1>{json.potions[4].name}</h1>
                 <h1>Use/Effect:</h1>
@@ -119,10 +110,8 @@ function Main() {
                 <ul>
                   <li>{json.potions[4].ingredients}</li>
                 </ul>
-
                 <h1>Price</h1>
                 <p className="Price">{json.potions[4].price}</p>
-
                 <button type="text">ADD TO CART</button>
               </div>
             </div>
@@ -138,7 +127,6 @@ function Main() {
               <div>
                 <img src={polyjuicepotion} alt="Produto" />
               </div>
-
               <div>
                 <h1>{json.potions[5].name}</h1>
                 <h1>Use/Effect:</h1>
@@ -147,10 +135,8 @@ function Main() {
                 <ul>
                   <li>{json.potions[5].ingredients}</li>
                 </ul>
-
                 <h1>Price</h1>
                 <p className="Price">{json.potions[5].price}</p>
-
                 <button type="text">ADD TO CART</button>
               </div>
             </div>
@@ -166,7 +152,6 @@ function Main() {
               <div>
                 <img src={sleepingdraught} alt="Produto" />
               </div>
-
               <div>
                 <h1>{json.potions[6].name}</h1>
                 <h1>Use/Effect:</h1>
@@ -175,10 +160,8 @@ function Main() {
                 <ul>
                   <li>{json.potions[6].ingredients}</li>
                 </ul>
-
                 <h1>Price</h1>
                 <p className="Price">{json.potions[6].price}</p>
-
                 <button type="text">ADD TO CART</button>
               </div>
             </div>
@@ -198,7 +181,6 @@ function Main() {
               <strong>{json.potions[1].price}</strong>
             </span>
           </div>
-
           <div>
             <button onClick={JwModal.open('jw-modal-2')}>
               <Link to="">
@@ -210,7 +192,6 @@ function Main() {
               <strong>{json.potions[2].price}</strong>
             </span>
           </div>
-
           <div>
             <button onClick={JwModal.open('jw-modal-3')}>
               <Link to="">
@@ -234,7 +215,6 @@ function Main() {
               <strong>{json.potions[4].price}</strong>
             </span>
           </div>
-
           <div>
             <button onClick={JwModal.open('jw-modal-5')}>
               <Link to="">
@@ -246,7 +226,6 @@ function Main() {
               <strong>{json.potions[5].price}</strong>
             </span>
           </div>
-
           <div>
             <button onClick={JwModal.open('jw-modal-6')}>
               <Link to="">

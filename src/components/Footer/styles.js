@@ -99,6 +99,7 @@ export const FormContact = styled.div`
     width: 100%;
     max-width: 15rem;
     font-weight: bold;
+    cursor: pointer;
   }
 
   @media (min-width: 426px) {

@@ -61,7 +61,6 @@ export const Vitrine = styled.div`
   }
 
   /* Ipads ou Superiores */
-
   @media (max-width: 76.8rem) {
     width: min(65rem, 100%);
     display: flex;

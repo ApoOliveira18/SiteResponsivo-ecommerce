@@ -37,6 +37,7 @@ export default createGlobalStyle`
 
   --menu-toggle: #523468;
   --menu-active: #422a53;
+  --menu-dropdown: #E6E6FA;
   --back: #ffffff;
   --back-gray: #cccccc;
   --texto-destaques: #f00;
@@ -53,5 +54,4 @@ export default createGlobalStyle`
   html, body, #root {
    font-size: 55%;
  }
-}
 `;

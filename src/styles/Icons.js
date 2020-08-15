@@ -11,7 +11,6 @@ export {
 export { Person, Cake, Favorite } from 'styled-icons/material';
 export { ArrowLeft } from 'styled-icons/heroicons-solid';
 export { Chat } from 'styled-icons/heroicons-outline';
-export { MerlinsIcon as Merlins } from '../components/MerlinsIcon';
 export { Menu } from '@styled-icons/entypo/Menu';
 export { FacebookCircle } from '@styled-icons/boxicons-logos/FacebookCircle';
 export { TwitterWithCircle } from '@styled-icons/entypo-social/TwitterWithCircle';
