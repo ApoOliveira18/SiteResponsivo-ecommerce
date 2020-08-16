@@ -52,7 +52,7 @@
   <img alt="Homepage" title="Homepage" src="src/assets/int3_6.png" width="400px" />  
 </p>
 
- <h3>Laytout Responsivo Laptop wiht MDI Screen</h3>
+ <h3>Laytout Responsivo Laptop 1024, LapTop 1440px, 4K 2560px</h3>
 <p align="center">      
   <img alt="Homepage" title="Homepage" src="src/assets/int4.png" width="600px" />
 </p>
