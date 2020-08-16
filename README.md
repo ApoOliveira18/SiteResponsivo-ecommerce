@@ -64,7 +64,7 @@ Essa homepage foi desenvolvida usando as seguintes tecnologias:
 - [ReactJS](https://pt-br.reactjs.org/) 
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-## :rocket-how-to-use: Como Usar
+## :information_source: Como Usar
 
 Para executar essa aplicação você precisará ter [Git](https://git-scm.com),  [ReactJS][react] , [Yarn][yarn] + [Npm][npm] instalados em seu computador.
 
@@ -81,7 +81,7 @@ $ cd SiteResponsivo-ecommerce/
 $yarn
 $Npm
 ```
-## 🤔 :rocket-how-to-contribute: Como contribuir
+## 🤔 Como contribuir
 - Make a fork;
 - Create a branck with your feature: `git checkout -b my-feature`;
 - Commit changes: `git commit -m 'feat: My new feature'`;
