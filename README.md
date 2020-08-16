@@ -89,7 +89,7 @@ $Npm
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :rocket:memo-license: Licença
+## :memo: License
 Este projeto está sob a licença do MIT. Consulte a [LICENSE](LICENSE.md) para obter detalhes.
 
 ---
